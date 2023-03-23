@@ -1,0 +1,14 @@
+/* Created by: Noah Smith
+* Created on: Mar 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-05-HTML-Salary
+*/
+
+h1 {
+	background-color: skyblue;
+  text-align: center;
+}
+
+body {
+  background-color: #0D98BA;
+}
